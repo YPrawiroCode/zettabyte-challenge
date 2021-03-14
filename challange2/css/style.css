@@ -75,10 +75,11 @@ html, body{
     padding: 0;
     -webkit-transition: 0.3s;
     transition: 0.3s;
+    box-shadow: 0 8px 6px 0 rgba(0,0,0,0.2)
   }
   
   .price:hover {
-    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+    box-shadow: 0 5px 16px 0 rgba(0,0,0,0.2)
   }
 
 .dollar{
